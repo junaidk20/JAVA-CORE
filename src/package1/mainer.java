@@ -11,9 +11,13 @@ class b extends A{
 
 public class mainer {
     public static void main(String[] args) throws Exception {
-        A a = new b();//upcasting
-        b bq=(b) a;//downcasting
-        System.out.println(bq.P);
+      int i=20;
+      byte j=(byte) i;  //explicit
+      byte l=20;
+        int k=l;//implcit
+        System.out.println(j);
+        System.out.println(k);
+
 
 
 
