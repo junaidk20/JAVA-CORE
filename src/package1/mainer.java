@@ -5,10 +5,11 @@ class A{
 
 public class mainer {
     public static void main(String[] args) {
+    int c=0;
+    for (int i=0;i<10;i++){
+        c+=10;//arithmetic operator
 
-   boolean b=true||false;
-        boolean c=true&&false;
-        System.out.println(b);
+    }
         System.out.println(c);
 
     }
