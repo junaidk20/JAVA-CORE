@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95d9f203-8f93-4051-8254-328f9431defd" name="Changes" comment="upcasting and downcasting">
-      <change beforePath="$PROJECT_DIR$/src/package1/mainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/package1/mainer.java" afterDir="false" />
-    </list>
+    <list default="true" id="95d9f203-8f93-4051-8254-328f9431defd" name="Changes" comment="implicit and explicit casting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746792151766</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="implicit and explicit casting">
+      <option name="closed" value="true" />
+      <created>1746792565828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746792565828</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,6 +176,7 @@
     <MESSAGE value="boolean short Circuit operator" />
     <MESSAGE value="arithmetic operator" />
     <MESSAGE value="upcasting and downcasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="upcasting and downcasting" />
+    <MESSAGE value="implicit and explicit casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="implicit and explicit casting" />
   </component>
 </project>
