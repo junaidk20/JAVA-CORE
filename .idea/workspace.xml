@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95d9f203-8f93-4051-8254-328f9431defd" name="Changes" comment="this keyword for class">
+    <list default="true" id="95d9f203-8f93-4051-8254-328f9431defd" name="Changes" comment="boolean operator">
       <change beforePath="$PROJECT_DIR$/src/package1/mainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/package1/mainer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,12 +119,30 @@
       <option name="project" value="LOCAL" />
       <updated>1746789252544</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ternary operator">
+      <option name="closed" value="true" />
+      <created>1746789969895</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746789969895</updated>
+    </task>
+    <task id="LOCAL-00009" summary="boolean operator">
+      <option name="closed" value="true" />
+      <created>1746790346135</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746790346135</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="this keyword for class" />
-    <option name="LAST_COMMIT_MESSAGE" value="this keyword for class" />
+    <MESSAGE value="ternary operator" />
+    <MESSAGE value="boolean operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="boolean operator" />
   </component>
 </project>
